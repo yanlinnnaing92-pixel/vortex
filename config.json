@@ -1,0 +1,18 @@
+[
+  {
+    "id": "de_frankfurt_reality_01",
+    "name": "Frankfurt, Germany",
+    "country": "Germany",
+    "countryCode": "DE",
+    "serverAddress": "your-server-ip-or-domain.com",
+    "serverPort": 443,
+    "protocol": "VLESS + Reality",
+    "publicKey": "h3R_8P-XpS8eO7Xp7VpIs9T7N_lD8jJ-4N0zC2z_H1Q=",
+    "shortId": "fead7c40",
+    "sni": "dist.cloudflare.com",
+    "flow": "xtls-rprx-vision",
+    "loadBalancingGroup": "EU_G1_LOAD_BALANCER",
+    "serverHealthStatus": "EXCELLENT",
+    "defaultPingMs": 42
+  }
+]
