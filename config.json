@@ -1,18 +1,19 @@
 [
   {
-    "id": "de_frankfurt_reality_01",
-    "name": "Frankfurt, Germany",
+    "id": "singapore_premium_node_vless",
+    "name": "Singapore - Premium Reality",
     "country": "Singapore",
-    "countryCode": "DE",
-    "serverAddress": "your-server-ip-or-domain.com",
+    "countryCode": "SG",
+    "serverAddress": "vortex01.premiumoutline.top",
     "serverPort": 443,
     "protocol": "VLESS + Reality",
-    "publicKey": "h3R_8P-XpS8eO7Xp7VpIs9T7N_lD8jJ-4N0zC2z_H1Q=",
-    "shortId": "fead7c40",
-    "sni": "dist.cloudflare.com",
+    "publicKey": "i75LpSGULEJ6plzAH9T1SrwewuZDC8_t4QCXJyp4EmI",
+    "uuid": "13be9080-992a-48f7-a054-293dc89fa0b5",
+    "shortId": "6a",
+    "sni": "www.microsoft.com",
     "flow": "xtls-rprx-vision",
-    "loadBalancingGroup": "EU_G1_LOAD_BALANCER",
+    "loadBalancingGroup": "ASIA_G1_LOAD_BALANCER",
     "serverHealthStatus": "EXCELLENT",
-    "defaultPingMs": 42
+    "defaultPingMs": 35
   }
 ]
